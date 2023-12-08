@@ -19,7 +19,7 @@ public class UtilsFaker {
             userDate = String.valueOf(faker.number().numberBetween(1, 28)),
             userMonth = getRandomMonth(),
             userYear = String.valueOf(faker.number().numberBetween(1990, 2015)),
-            userCity = setRandomCity(state);
+            userCity = setRandomCity( state);
 
 
     public String getRandomGender() {
