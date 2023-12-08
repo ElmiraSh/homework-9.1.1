@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d83832cf-17ab-40a4-881a-2dbf03f4c98f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hw-9.2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-9.2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-9.2/src/test/java/RegistrationWithPageObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-9.2/src/test/java/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-9.2/src/test/java/TextBoxTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-9.2/src/test/java/components/DatePicker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-9.2/src/test/java/utils/UtilsFaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw-9.2/src/test/resources/picture.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/hw-9.2">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/src">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/src/test/java">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Z8MhiD9C8GZIxfNcg4Ctdjtt6U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/elmir/IdeaProjects/homework-9.1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\elmir\IdeaProjects\homework-9.1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\elmir\IdeaProjects\homework-9.1\src\test\java" />
+      <recent name="C:\Users\elmir\IdeaProjects\homework-9.1" />
+      <recent name="C:\Users\elmir\IdeaProjects\homework-9.1\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d83832cf-17ab-40a4-881a-2dbf03f4c98f" name="Changes" comment="" />
+      <created>1701799374629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701799374629</updated>
+      <workItem from="1701799376309" duration="2039000" />
+      <workItem from="1701801488273" duration="465000" />
+      <workItem from="1701904032348" duration="80000" />
+      <workItem from="1702061456268" duration="1059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
